@@ -30,7 +30,6 @@ import ResetPasswordPage from './pages/resetPage.jsx';
 
 import { AuthProvider } from './context/AuthContext.jsx';
 
-
 const router = createBrowserRouter([
   {
     path: '/',
